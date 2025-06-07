@@ -1,0 +1,11 @@
+
+Convert the following doctor's dictation into a structured clinical note.
+
+Format:
+- Patient:
+- Symptoms:
+- Diagnosis:
+- Prescription:
+- Advice:
+
+Dictation: <insert transcription>
