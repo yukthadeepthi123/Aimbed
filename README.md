@@ -30,14 +30,12 @@ sample_audio.wav    # Voice input
  requirements.txt    # Dependencies
  ESP32/              # Embedded voice capture
 
-##  Demo Video
-
- [Link to YouTube Demo](#) *(add after uploading video)*
+#
 
 ##  Run Locally
 
 ```bash
 pip install -r requirements.txt
 python app.py
-```
+
 
